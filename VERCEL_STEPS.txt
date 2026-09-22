@@ -1,0 +1,8 @@
+1. Create a GitHub repository named dpi-ht-01-vg25044.
+2. Upload ALL files and folders from this project.
+3. On Vercel choose Add New Project and import that GitHub repository.
+4. Leave the detected Next.js defaults unchanged and click Deploy.
+5. Test:
+   https://YOUR-DOMAIN.vercel.app/
+   https://YOUR-DOMAIN.vercel.app/review
+   https://YOUR-DOMAIN.vercel.app/submission.json
